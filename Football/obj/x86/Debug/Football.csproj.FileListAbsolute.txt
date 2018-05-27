@@ -1,0 +1,30 @@
+C:/Users/Mike/AppData/Local/Temporary Projects/Football/bin/Debug/Football.exe
+C:/Users/Mike/AppData/Local/Temporary Projects/Football/bin/Debug/Football.pdb
+C:/Users/Mike/AppData/Local/Temporary Projects/Football/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/Mike/AppData/Local/Temporary Projects/Football/obj/x86/Debug/Football.exe
+C:/Users/Mike/AppData/Local/Temporary Projects/Football/obj/x86/Debug/Football.pdb
+C:/Users/Mike/documents/visual studio 2010/Projects/Football/Football/bin/Debug/Football.exe
+C:/Users/Mike/documents/visual studio 2010/Projects/Football/Football/bin/Debug/Football.pdb
+C:/Users/Mike/documents/visual studio 2010/Projects/Football/Football/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/Mike/documents/visual studio 2010/Projects/Football/Football/obj/x86/Debug/Football.exe
+C:/Users/Mike/documents/visual studio 2010/Projects/Football/Football/obj/x86/Debug/Football.pdb
+C:/Users/Mike/Dropbox/Public/Code/Football/Football/obj/x86/Debug/Football.exe
+C:/Users/Mike/Dropbox/Public/Code/Football/Football/obj/x86/Debug/Football.pdb
+C:/Users/Mike/Dropbox/Public/Code/Football/Football/bin/Debug/Football.exe
+C:/Users/Mike/Dropbox/Public/Code/Football/Football/bin/Debug/Football.pdb
+C:/Users/Mike/Dropbox/Public/Code/Football/Football/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Users/pc2/Dropbox/Public/Code/Football/Football/obj/x86/Debug/Football.exe
+C:/Users/pc2/Dropbox/Public/Code/Football/Football/obj/x86/Debug/Football.pdb
+C:/Users/pc2/Dropbox/Public/Code/Football/Football/bin/Debug/Football.exe
+C:/Users/pc2/Dropbox/Public/Code/Football/Football/bin/Debug/Football.pdb
+C:/Users/pc2/Dropbox/Public/Code/Football/Football/obj/x86/Debug/ResolveAssemblyReference.cache
+/home/mike/Desktop/Football/Football/bin/Debug/Football.exe
+/home/mike/Desktop/Football/Football/bin/Debug/Football.pdb
+/home/mike/Desktop/Football/Football/obj/x86/Debug/Football.csproj.CoreCompileInputs.cache
+/home/mike/Desktop/Football/Football/obj/x86/Debug/Football.exe
+/home/mike/Desktop/Football/Football/obj/x86/Debug/Football.pdb
+/home/mike/Dropbox/Public/Football/Football/bin/Debug/Football.exe
+/home/mike/Dropbox/Public/Football/Football/bin/Debug/Football.pdb
+/home/mike/Dropbox/Public/Football/Football/obj/x86/Debug/Football.csproj.CoreCompileInputs.cache
+/home/mike/Dropbox/Public/Football/Football/obj/x86/Debug/Football.exe
+/home/mike/Dropbox/Public/Football/Football/obj/x86/Debug/Football.pdb

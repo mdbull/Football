@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{82C02C7F-C99B-4285-A733-0B966C1C7216}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FootballGUI/TeamLoader.cs">
+    <Files>
+      <File FileName="FootballGUI/MainForm.cs" Line="83" Column="85" />
+      <File FileName="FootballGUI/TeamLoader.cs" Line="172" Column="33" />
+      <File FileName="Football/bin/Debug/Data/config.cfg.txt" Line="7" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Football PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FootballGUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

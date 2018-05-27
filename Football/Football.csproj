@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B79024A8-2670-4023-9469-DE82E12EB432}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Football</RootNamespace>
+    <AssemblyName>Football</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\ConfigReader.cs" />
+    <Compile Include="Engine\ChainCrew.cs" />
+    <Compile Include="Engine\CoinFlip.cs" />
+    <Compile Include="Engine\Defense.cs" />
+    <Compile Include="Engine\DefensivePlay.cs" />
+    <Compile Include="Engine\DefensiveStatSheet.cs" />
+    <Compile Include="Engine\Dice.cs" />
+    <Compile Include="Engine\Direction.cs" />
+    <Compile Include="Engine\Field.cs" />
+    <Compile Include="Engine\FieldGoal.cs" />
+    <Compile Include="Engine\FootballEntity.cs" />
+    <Compile Include="Engine\Fumble.cs" />
+    <Compile Include="Engine\Game.cs" />
+    <Compile Include="Engine\GameAnnouncer.cs" />
+    <Compile Include="Engine\IExecutable.cs" />
+    <Compile Include="Engine\Interception.cs" />
+    <Compile Include="Engine\Kickoff.cs" />
+    <Compile Include="Engine\KickoffReturnPlay.cs" />
+    <Compile Include="Engine\KickPlayStatSheet.cs" />
+    <Compile Include="Engine\Offense.cs" />
+    <Compile Include="Engine\OffensiveStatSheet.cs" />
+    <Compile Include="Engine\PassPlay.cs" />
+    <Compile Include="Engine\PassPlayStatSheet.cs" />
+    <Compile Include="Engine\Person.cs" />
+    <Compile Include="Engine\Play.cs" />
+    <Compile Include="Engine\Player.cs" />
+    <Compile Include="Engine\PlayerSkills.cs" />
+    <Compile Include="Engine\RunPlay.cs" />
+    <Compile Include="Engine\RunStatSheet.cs" />
+    <Compile Include="Engine\Safety.cs" />
+    <Compile Include="Engine\Scoreboard.cs" />
+    <Compile Include="Engine\StatHolder.cs" />
+    <Compile Include="Engine\StatsEntity.cs" />
+    <Compile Include="Engine\StatSheet.cs" />
+    <Compile Include="Engine\Team.cs" />
+    <Compile Include="Engine\Score.cs" />
+    <Compile Include="Engine\Touchdown.cs" />
+    <Compile Include="Engine\Weather.cs" />
+    <Compile Include="Engine\WonLossRecord.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Engine\YardLine.cs" />
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
